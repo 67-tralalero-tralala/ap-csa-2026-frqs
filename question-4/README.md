@@ -2,9 +2,6 @@
 # Question 4
 
 ### My Approach
-
+2d array but only requires looping first row
 ### Course Connections
-
-### What Gave Me Trouble
-
-### What I Would Do Differently
+2d array
