@@ -2,9 +2,6 @@
 # Question 2 
 
 ### My Approach
-
+need to use classes with private variables
 ### Course Connections
-
-### What Gave Me Trouble
-
-### What I Would Do Differently
+classes
