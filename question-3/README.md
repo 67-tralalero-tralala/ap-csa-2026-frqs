@@ -2,9 +2,6 @@
 # Question 3
 
 ### My Approach
-
+would need nested loops
 ### Course Connections
-
-### What Gave Me Trouble
-
-### What I Would Do Differently
+nested loops for 2d array
